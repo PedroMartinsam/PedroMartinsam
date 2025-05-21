@@ -36,26 +36,31 @@
   <summary align="left"><h2>🎓 Projetos Acadêmicos</h2></summary>
  <p align="left">
     <a href="https://github.com/PedroMartinsam/Pokemon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="250px" />
     </a>
+
 </details>
   
-  <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
-  <!-- 💼 Projetos Profissionais -->
-  <details close> 
+ <!-- 💼 Projetos Profissionais -->
+<details close> 
   <summary align="left"><h2>💼 Projetos Profissionais</h2></summary>
- <p align="left">
+  <p align="left">
     <a href="https://github.com/PedroMartinsam/Pokemon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="320px" />
     </a>
+    <a href="https://github.com/PedroMartinsam/Pokemon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="320px" />
+    </a>
+     
+  </p>
 </details>
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
-  <!-- 📱 Front-end -->
+  <!-- 📱 APP -->
   <details close> 
-  <summary align="left"><h2>📱 Front-end</h2></summary>
+  <summary align="left"><h2>📱 APP</h2></summary>
  <p align="left">
     <a href="https://github.com/PedroMartinsam/Pokemon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="300px" />
     </a>
 </details>
 
