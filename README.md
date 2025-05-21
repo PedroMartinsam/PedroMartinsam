@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=021116&height=120&section=header"/>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 000%; height: auto;" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 100%; height: auto;" width="250"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=021116&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Emmanuel+Amaral+Martins;I+study+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg) 
@@ -26,17 +26,15 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Rect Native" src="https://img.shields.io/badge/RectNative-2CA4CB?style=for-the-badge&logo=RectNative&logoColor=white"/>
 </div>
-</div>
-
 
 
 
 <!-- 🎓 Projetos Acadêmicos -->
-
  <details close> 
-  <summary><h2>💼 Projetos Profissionais</h2></summary>
- <p align="center">
+  <summary align="left"><h2>🎓 Projetos Acadêmicos</h2></summary>
+ <p align="left">
     <a href="https://github.com/PedroMartinsam/Pokemon">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="200px" />
     </a>
@@ -45,8 +43,8 @@
   <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
   <!-- 💼 Projetos Profissionais -->
   <details close> 
-  <summary><h2>💼 Projetos Profissionais</h2></summary>
- <p align="center">
+  <summary align="left"><h2>💼 Projetos Profissionais</h2></summary>
+ <p align="left">
     <a href="https://github.com/PedroMartinsam/Pokemon">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="200px" />
     </a>
@@ -54,12 +52,17 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
   <!-- 📱 Front-end -->
   <details close> 
-  <summary><h2>📱 Front-end</h2></summary>
- <p align="center">
+  <summary align="left"><h2>📱 Front-end</h2></summary>
+ <p align="left">
     <a href="https://github.com/PedroMartinsam/Pokemon">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="200px" />
     </a>
 </details>
+
+
+
+
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMartinsam&theme=tokyonight" />
