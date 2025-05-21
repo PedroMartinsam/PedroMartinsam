@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=021116&height=120&section=header"/>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 200%; height: auto;" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 000%; height: auto;" width="200"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=021116&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Emmanuel+Amaral+Martins;I+study+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg) 
