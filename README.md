@@ -38,6 +38,9 @@
      <a href="https://github.com/PedroMartinsam/Abstract_Factory">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Abstract_Factory&theme=tokyonight" width="320px" />
     </a>
+    <a href="https://github.com/PedroMartinsam/Adapter/tree/main">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Adapter&theme=tokyonight" width="320px" />
+    </a>
     
      
   </p>
