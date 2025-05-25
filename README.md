@@ -32,14 +32,20 @@
 
 
 <!-- 🎓 Projetos Acadêmicos -->
- <details close> 
+<details close> 
   <summary align="left"><h2>🎓 Projetos Acadêmicos</h2></summary>
- <p align="left">
-    <a href="https://github.com/PedroMartinsam/Pokemon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="250px" />
+  <p align="left">
+    <a href="https://github.com/PedroMartinsam/Abstract_Factory">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Abstract_Factory&theme=tokyonight" width="320px" />
     </a>
-
+    
+    <a href="https://github.com/PedroMartinsam/Pokemon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="320px" />
+    </a>
+     
+  </p>
 </details>
+  <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
   
  <!-- 💼 Projetos Profissionais -->
 <details close> 
