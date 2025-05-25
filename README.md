@@ -38,9 +38,7 @@
      <a href="https://github.com/PedroMartinsam/Suporteos-main">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Suporteos-main&theme=tokyonight&hide_description=true&show_owner=false&hide_border=true" width="300" />
     </a>
-    <a href="https://github.com/PedroMartinsam/Adapter/tree/main">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Adapter&theme=tokyonight&hide_description=true&show_owner=false&hide_border=true" width="300" />
-    </a>
+  
   </p>
 </details>
 
