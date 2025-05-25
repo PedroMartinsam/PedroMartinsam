@@ -35,7 +35,7 @@
 <details close> 
   <summary align="left"><h2>🎓 Projetos Acadêmicos</h2></summary>
   <p align="left">
-     <a href="https://github.com/PedroMartinsam/Abstract-Factory">
+     <a href="https://github.com/PedroMartinsam/Abstract-Factory/tree/main/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Abstract_Factory&theme=tokyonight" width="320px" />
     </a>
     <a href="https://github.com/PedroMartinsam/Adapter/tree/main">
