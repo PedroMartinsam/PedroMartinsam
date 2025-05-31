@@ -36,10 +36,19 @@
   <summary align="left"><h2>🎓 Projetos Acadêmicos</h2></summary>
   <p align="left">
      <a href="https://github.com/PedroMartinsam/Suporteos-main">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Suporteos-main&theme=tokyonight&hide_description=true&show_owner=false&hide_border=true" width="300" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Suporteos-main&theme=tokyonight&hide_description=true&show_owner=false&hide_border=true" width="300"  />
     </a>
-  
+
+
+  <a href="https://github.com/PedroMartinsam/Abstract-Factory">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Abstract-Factory&theme=tokyonight&hide_description=true&show_owner=false&hide_border=true" width="255" />
+    </a>
+      <a href="https://github.com/PedroMartinsam/Pokemon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="300px" />
+    </a>
   </p>
+
+   
 </details>
 
   <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -51,9 +60,7 @@
     <a href="https://github.com/PedroMartinsam/Pokemon">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="320px" />
     </a>
-    <a href="https://github.com/PedroMartinsam/Pokemon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMartinsam&repo=Pokemon&theme=tokyonight" width="320px" />
-    </a>
+    
      
   </p>
 </details>
