@@ -28,7 +28,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Rect Native" src="https://img.shields.io/badge/RectNative-2CA4CB?style=for-the-badge&logo=RectNative&logoColor=white"/>
+  <img alt="Rect Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
 
@@ -49,6 +49,8 @@
 <div align="center">
   <strong>“Cada linha de código é um passo à frente na minha jornada de crescimento e inovação.”</strong>
 </div>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=021116&height=120&section=footer"/>
