@@ -8,11 +8,20 @@
   Estudante de Sistemas de Informação (6º semestre) apaixonado por tecnologia, interfaces criativas e soluções eficientes. Tenho experiência com projetos acadêmicos e pessoais usando HTML, CSS, JavaScript e Java. Atualmente, busco oportunidades para crescer como desenvolvedor front-end e colaborar com soluções inovadoras.
 </p>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroMartinsam&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="PedroEmmanuel Amaral MArins github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMartinsam&layout=compact&hide_border=true&langs_count=10&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
   
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMartinsam&layout=compact&hide_border=true&langs_count=10&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<div align="center">
+
+<div style="background-color:#0d1117; border-radius:15px; padding:20px; width:41%; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+  <a href="https://github.com/PedroMartinsam/Portfolio-Projetos" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-Portfolio_Projects-ff7f50?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+</div>
+
+
 
 <div align="center">  
 <a href="https://www.instagram.com/pedro_amaral.m/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
