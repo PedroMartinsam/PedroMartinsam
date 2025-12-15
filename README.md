@@ -8,7 +8,10 @@
   Estudante de Sistemas de Informação (6º semestre) apaixonado por tecnologia, interfaces criativas e soluções eficientes. Tenho experiência com projetos acadêmicos e pessoais usando HTML, CSS, JavaScript e Java. Atualmente, busco oportunidades para crescer como desenvolvedor front-end e colaborar com soluções inovadoras.
 </p>
 <div align="center">  
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vitinhochicas&show_icons=true&theme=dark&title_color=1505d4&text_color=ffffff&icon_color=1505d4&bg_color=0d1117&hide_border=false" 
+    height="200"
+  />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMartinsam&layout=compact&hide_border=true&langs_count=20&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
@@ -54,7 +57,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMartinsam&theme=tokyonight" />
 </p>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitinhoChicas/VitinhoChicas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitinhoChicas/VitinhoChicas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitinhoChicas/VitinhoChicas/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <strong>“Cada linha de código é um passo à frente na minha jornada de crescimento e inovação.”</strong>
