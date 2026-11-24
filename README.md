@@ -1,9 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 100%; height: auto;" width="250"/>
 </div>
